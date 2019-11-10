@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-![alt text](assets/images/project.png)
+![alt text](img/project.png)
